@@ -1,0 +1,32 @@
+.grid-section{
+    padding: 3rem 0;
+    background-color: rgb(245, 216, 199);
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(241, 202, 179);
+    padding: 0 15px;
+}
+
+.container{
+    margin-inline: auto;
+    padding: 10px;
+}
+
+img{
+    height: 500px;
+    width: 250px;
+}
+
+.split{
+    display: flex;
+    justify-content: center;
+}
+
+.deatils-section{
+    width: 40%;
+    margin-inline: 2rem 0;
+}
